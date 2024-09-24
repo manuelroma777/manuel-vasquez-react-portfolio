@@ -1,2 +1,2 @@
-# Manuel Vasquez Roma React Portfolio Application
+# Manuel Vasquez Roma - React/Redux/Router Starter Project
 
